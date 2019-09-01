@@ -11,7 +11,6 @@ We tested the code on:
 other requirements:
 * numpy
 * pandas
-* tqdm
 
 ## Usage
 
