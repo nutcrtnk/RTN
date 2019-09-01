@@ -20,6 +20,8 @@ python main.py -d [Dataset_Name]
 ```
 The program will automatically detect CUDA, and train the model on a GPU if possible.
 
+The trained model will be in "model/[Dataset_name]/RTN.pt".
+
 ## Dataset
 To use your own dataset, create csv file with filename "[Dataset_name].csv" in folder "data", where in each line is an interaction in format "[user_id],[item_id],[rating],[timestamp]".
 
