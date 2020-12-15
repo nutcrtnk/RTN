@@ -37,6 +37,8 @@ Note that values of rating are unused in the program.
 
 If a dataset contains repeatable interactions (a user interacted with an item multiple times), use option "--repeatable".
 
+## Citation
+
 If our code is useful in your research, please cite:
 
 N. Chairatanakul, T. Murata and X. Liu, "Recurrent Translation-Based Network for Top-N Sparse Sequential Recommendation," in IEEE Access, vol. 7, pp. 131567-131576, 2019, doi: 10.1109/ACCESS.2019.2941083.
