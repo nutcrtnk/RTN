@@ -47,7 +47,7 @@ N. Chairatanakul, T. Murata and X. Liu, "Recurrent Translation-Based Network for
 Bibtex:
 ```
 @article{8835015,
-  author={N. {Chairatanakul} and T. {Murata} and X. {Liu}},
+  author={Chairatanakul, Nuttapong and Murata, Tsuyoshi and Liu, Xin},
   journal={IEEE Access}, 
   title={Recurrent Translation-Based Network for Top-N Sparse Sequential Recommendation}, 
   year={2019},
