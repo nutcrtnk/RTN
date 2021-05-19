@@ -1,6 +1,6 @@
 # RTN
 
-The code for the paper "[Recurrent Translation-based Network for Top-N Sparse Sequential Recommendation.](https://ieeexplore.ieee.org/document/8835015)"
+The code for the paper "[Recurrent Translation-based Network for Top-N Sparse Sequential Recommendation](https://ieeexplore.ieee.org/document/8835015)", IEEE Access.
 
 ## Requirements
 
